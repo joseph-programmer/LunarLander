@@ -84,13 +84,4 @@ After building, run the executable:
 
 If you find any issues or have suggestions for improvements, feel free to submit a pull request or open an issue on the repository.
 
-```
-
-### Key Points:
-- **Overview**: Introduces the project and its features.
-- **Project Structure**: Provides a high-level view of the file organization.
-- **Requirements & Installation**: Describes the dependencies and the steps to set up the project.
-- **Gameplay**: Briefly describes the controls and objective.
-- **Contributing**: Encourages community involvement.
-
 
